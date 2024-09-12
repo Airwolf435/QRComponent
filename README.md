@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [QR Code Component Solution](https://github.com/Airwolf435/QRComponent?tab=readme-ov-file)
-- Live Site URL: [Live QR Code Component](frontendmentor.johnkeenan.ca/qr-component)
+- Live Site URL: [Live QR Code Component](https://frontendmentor.johnkeenan.ca/qr-component)
 
 ## My process
 
