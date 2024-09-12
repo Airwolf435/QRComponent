@@ -4,11 +4,6 @@
     --shadow-clr: hsla(216, 15%, 48%, 0.5);
 }
 
-@font-face {
-    font-family: Outfit;
-    src: url(https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap);
-}
-
 body{
     margin: 0;
     padding: 0;
@@ -32,7 +27,6 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .qr-card{
-    container: qr-card inline-size;
     background-color: var(--card-bg);
     border-radius: 0.75em;
     max-width: 30ch;
